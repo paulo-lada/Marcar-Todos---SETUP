@@ -19,7 +19,7 @@ com um simples comando, ele marca todos os participantes automaticamente.
 ## 🛠️ Instruções de Uso
 
 1. **Baixe o instalador** no link abaixo:  
-   👉 [Download PauladaBot](https://github.com/paulo-lada/Marcar-Todos---SETUP/raw/main/PauladaBot-Setup.exe)
+   👉 [Download PauladaBot](https://github.com/paulo-lada/Marcar-Todos---SETUP/releases/download/Release/PauladaBot-Setup.exe)
 
 2. Execute o instalador e siga os passos.  
    - Os arquivos ficarão salvos em uma pasta no seu computador  
