@@ -44,8 +44,6 @@ com um simples comando, ele marca todos os participantes automaticamente.
 - 🔴 **Não feche o console do bot enquanto estiver em uso**  
   > Se o bot for fechado, ele para de funcionar imediatamente.  
 
-- 📱 Você pode digitar o comando `!marcar` direto do **celular**, no grupo que o bot está participando.  
-
 ---
 
 ## 🤝 Apoie o projeto
