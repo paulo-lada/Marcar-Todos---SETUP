@@ -4,7 +4,7 @@ O **PauladaBot** é uma ferramenta **100% gratuita** que facilita a vida em grup
 com um simples comando, ele marca todos os participantes automaticamente.  
 
 > 💡 Projeto criado para ajudar a comunidade.  
-> Se curtiu e quer apoiar, considere fortalecer a **[Paulada Cards](www.mypcards.com/PauladaCards)**,  
+> Se curtiu e quer apoiar, considere fortalecer a **[Paulada Cards](https://www.mypcards.com/PauladaCards)**,  
 > uma lojinha especializada em cartas Pokémon e acessórios TCG ⚡🃏  
 
 ---
