@@ -39,6 +39,8 @@ com um simples comando, ele marca todos os participantes automaticamente.
 - O login é salvo apenas no seu computador, em uma pasta local.  
 - O bot não coleta nem envia informações para servidores externos.  
 
+---
+
 ## ⚠️ Atenção
 
 - 🔴 **Não feche o console do bot enquanto estiver em uso**  
